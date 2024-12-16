@@ -1,0 +1,12 @@
+body {
+    font-family: "Krub", sans-serif;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.titulo span {
+    font-size: 20px;
+}
+
